@@ -1,0 +1,11 @@
+text,label
+"I love this product, it’s amazing!",safe
+You are so stupid and annoying.,unsafe
+Let’s meet for lunch tomorrow.,safe
+I will kill you if you talk again.,unsafe
+What a wonderful day it is!,safe
+"This is the worst service ever, idiot.",unsafe
+"Good morning, hope you’re doing well.",safe
+"You’re such a loser, nobody likes you.",unsafe
+That was an excellent performance!,safe
+"I hate you so much, go away.",unsafe
